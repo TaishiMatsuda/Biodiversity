@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+Class_Material/
 
 # Distribution / packaging
 .Python
